@@ -12,7 +12,8 @@
 #include <vector>
 #include <memory>
 #include <map>
-#include <bits/unique_ptr.h>
+#include <memory>
+#include <string>
 #include "TLObject.h"
 
 class ByteArray;
